@@ -19,3 +19,4 @@ If you reuse Stats NZ content without adapting it, include the following stateme
 If you adapt Stats NZ content or include it in a collection, include the following statement:
 
 This work is based on/includes Stats NZ’s data which are licensed by Stats NZ for reuse under the Creative Commons Attribution 4.0 International licence.
+________________________
